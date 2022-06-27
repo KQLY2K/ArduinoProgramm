@@ -1,0 +1,11 @@
+D:\Шарага\Практика\InterfaceForPraktika\bin\Debug\InterfaceForPraktika.exe.config
+D:\Шарага\Практика\InterfaceForPraktika\bin\Debug\InterfaceForPraktika.exe
+D:\Шарага\Практика\InterfaceForPraktika\bin\Debug\InterfaceForPraktika.pdb
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.csproj.AssemblyReference.cache
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.csproj.SuggestedBindingRedirects.cache
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.Form1.resources
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.Properties.Resources.resources
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.csproj.GenerateResource.cache
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.csproj.CoreCompileInputs.cache
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.exe
+D:\Шарага\Практика\InterfaceForPraktika\obj\Debug\InterfaceForPraktika.pdb
