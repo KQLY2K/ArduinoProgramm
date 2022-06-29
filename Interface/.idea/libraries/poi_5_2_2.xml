@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="poi-5.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Internet/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Internet/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Internet/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Internet/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Internet/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Internet/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib/xmlbeans-5.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
